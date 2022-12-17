@@ -20,7 +20,7 @@
  * limitations under the License.
  */
 
-namespace peterkahl\locale;
+namespace zer0art\locale;
 
 class locale {
 
