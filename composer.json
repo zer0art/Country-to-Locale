@@ -1,9 +1,9 @@
 {
-    "name": "peterkahl/country-to-locale",
+    "name": "zer0art/country-to-locale",
     "type": "library",
     "description": "Converts country code to locale code.",
     "keywords": ["locale", "localization", "language-code"],
-    "homepage": "https://github.com/peterkahl/Country-to-Locale",
+    "homepage": "https://github.com/zer0art/Country-to-Locale",
     "license": "Apache-2.0",
     "authors": [
         {
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "peterkahl\\locale\\": "src/"
+            "zer0art\\locale\\": "src/"
         }
     }
 }
